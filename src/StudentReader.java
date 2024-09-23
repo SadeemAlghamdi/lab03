@@ -83,5 +83,7 @@ public class StudentReader {
         for (int i = 0; i < randomGroups.size(); i++) {
             System.out.println("Group " + (i + 1) + ": " + randomGroups.get(i));
         }
+        System.out.println("second divice has been cloned");
+        System.out.println("hi");
     }
 }
